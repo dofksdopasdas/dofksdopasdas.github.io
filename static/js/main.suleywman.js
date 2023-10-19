@@ -50,9 +50,9 @@
                 Projects: [
                    {
                        name: "Arda",
-                       desc: "My discord Bot",
+                       desc: "SOON!",
                      ımage: "https://images-ext-2.discordapp.net/external/9Ulu-YvVS9ni_p16RahffpGrGD8HJ8uCVTA0zfgZwCQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/980812163952300082/040ca0b25348689f5f2bc294fa7aaa92.webp",
-                       url: "https://discord.com/oauth2/authorize?&client_id=980812163952300082&scope=applications.commands+bot&permissions=8"
+                       url: "https://emirardaonal.me/"
                    }],
                 Discord_UserID: "446313322179067905"
             }
