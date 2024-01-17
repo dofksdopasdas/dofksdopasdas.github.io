@@ -31,21 +31,11 @@
                     About: "👋🏼 I’m Emir Arda, I’m 1̲7 years old. \nSelf-taught software engineer and trained electrical and electronics technician"
                 },
                 Lang: [{
-                    name: "C"
+                    name: "PHP"
                 }, {
                     name: "C++"
                 },{
-                    name: "C#"
-                },{
                     name: "JavaScript"
-                },{
-                    name: "Structured Text"
-                }, {
-                    name: "HTML5"
-                },{
-                    name: "CSS"
-                }, {
-                    name: "Node.js"
                 },],
                 Projects: [
                    {
